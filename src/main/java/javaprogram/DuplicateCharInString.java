@@ -6,7 +6,7 @@ import java.util.List;
 public class DuplicateCharInString {
 
     public static void checkDuplicateWordInString() { // remove duplicate char
-        String name = "Rushikesh esh";
+        String name = "Rushikesh Sunil Ambekar".toLowerCase();
         // char space = ' ';
         List<Character> list = new ArrayList<Character>();
 
